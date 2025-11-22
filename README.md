@@ -76,7 +76,9 @@ Causal masking is essential for autoregressive generation, ensuring that predict
 
 Greedy decoding selects the most probable token at each step:
 
-$$y_t = \arg\max_y P(y | y_{<t}, x)$$
+$$
+y_t = \arg\max_{y} \, P(y \mid y_{<t}, x)
+$$
 
 Advantages:
 
