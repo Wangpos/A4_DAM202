@@ -1,0 +1,15 @@
+Assignment 4
+
+Module Code: DAM202
+TRANSFORMER DECODER
+Prerequisite Knowledge: Transformer architecture theory, autoregressive generation, causal masking, encoder-decoder architectures, beam search basics.
+Learning Objectives
+Understand and implement decoder mechanisms with autoregressive generation
+Implement and compare different decoding strategies (greedy, beam search, nucleus sampling)
+Train and evaluate encoder-decoder models on sequence-to-sequence tasks
+Analyze and improve generation quality
+
+Assignment Overview
+Task: Develop a Transformer Decoder-based Sequence Generation System for a NLP task, implementing decoder components. Focus on text content generation.
+Submission Format: Complete project with code, trained model checkpoints, and comprehensive analysis report.
+Assignment Deadline: 22 November, 2025.  
